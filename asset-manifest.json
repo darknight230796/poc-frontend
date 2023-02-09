@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/poc-frontend/static/css/main.073c9b0a.css",
-    "main.js": "/poc-frontend/static/js/main.9a5a13b8.js",
-    "static/js/787.49e9b56a.chunk.js": "/poc-frontend/static/js/787.49e9b56a.chunk.js",
-    "static/media/logo.svg": "/poc-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/poc-frontend/static/css/main.964fdded.css",
+    "main.js": "/poc-frontend/static/js/main.54277093.js",
     "index.html": "/poc-frontend/index.html",
-    "main.073c9b0a.css.map": "/poc-frontend/static/css/main.073c9b0a.css.map",
-    "main.9a5a13b8.js.map": "/poc-frontend/static/js/main.9a5a13b8.js.map",
-    "787.49e9b56a.chunk.js.map": "/poc-frontend/static/js/787.49e9b56a.chunk.js.map"
+    "main.964fdded.css.map": "/poc-frontend/static/css/main.964fdded.css.map",
+    "main.54277093.js.map": "/poc-frontend/static/js/main.54277093.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9a5a13b8.js"
+    "static/css/main.964fdded.css",
+    "static/js/main.54277093.js"
   ]
 }
